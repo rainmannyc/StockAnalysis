@@ -12,9 +12,9 @@ The analyzation process was simplified for Steve by creating a button he can sim
 
 By using our macro, he was able to clearly see which stocks resulted with positive or negative outcomes throughout the years he inputs. For this instance, Steve can clearly see stock data such as stock ticker "RUN" having an increase of 78.5% on the returns from year 2017 to 2018. And although stock ticker "ENPH" dropped 47.6%, the return was still in the positives due to the significant increase in volume. In which Steve can now clearly see indicated by the colored formats. Steve may now proceed to making his assessment and decisions on how he would like to move forward more clearly, pulling up the necessary data he requires at the click of a button!
 
-![Image of AllStocksOutput2017](https://github.com/rainmannyc/StockAnalysis/blob/1ea80b77fdf46902d482fe5d8978ba65e09b89a7/AllStocksOutput2017.png)
+![Image of AllStocksOutput2017](https://github.com/rainmannyc/StockAnalysis/blob/49cabcfead16110ea69218edc972f657001a6a4a/AllStocksOutput2017.png)
 
-![Image of AllStocksOutput2018](https://github.com/rainmannyc/StockAnalysis/blob/1ea80b77fdf46902d482fe5d8978ba65e09b89a7/AllStocksOutput2018.png)
+![Image of AllStocksOutput2018](https://github.com/rainmannyc/StockAnalysis/blob/49cabcfead16110ea69218edc972f657001a6a4a/AllStocksOutput2018.png)
 
 ### **The Codes**
 
