@@ -4,7 +4,7 @@
 
 The "Stock Analysis VBA" macros were originally created for our client Steve, who requested a way to collect and process specific stock data in which we acquired from excel data sheets. Our client Steve required a quick and simplified way to calculate and process specific data from the stock tickers listed in the data sheets. 
 
-## **The Macro**
+### **The Macro**
 
 The Macro we created for Steve analyzed all the data on the sheets provided and outputs the results he requested. The "Total Daily Volume" and "Return" were calculated by year and organized by stock tickers and outputs onto a separate data sheet for Steve called "All Stocks Analysis".
 
